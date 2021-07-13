@@ -1,1 +1,1 @@
-Big O notation notes and practice exercises via Bloc/Thinkful
+Notes and practice on Big O notation for Bloc
